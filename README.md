@@ -17,7 +17,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0078D4?style=for-the-badge&logo=esphome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/CyberSecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
 ![AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
