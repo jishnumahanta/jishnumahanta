@@ -26,7 +26,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnumahanta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishnumahanta&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://streak-stats.demolab.com?user=jishnumahanta&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📌 Pinned Projects
